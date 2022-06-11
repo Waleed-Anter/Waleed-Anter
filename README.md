@@ -1,6 +1,6 @@
 [![MasterHead](https://i0.wp.com/taskbcn.com/wp-content/uploads/2018/09/1OF0xEMkWBv-69zvmNs6RDQ.gif?fit=1600%2C700&ssl=1)](https://rishavchanda.io)
 
-<h1 align="center">Hi ??, I'm Waleed Anter</h1>
+<h1 align="center">Hi 👋, I'm Waleed Anter</h1>
 <h3 align="center">A passionate Game Developer & Designer From Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
