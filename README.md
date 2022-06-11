@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/Waleed__Anter" target="blank"><img src="https://img.shields.io/twitter/follow/Waleed__Anter?logo=twitter&style=for-the-badge" alt="Waleed__Anter" /></a> </p>
 
-- ?? I’m currently working on **Create New Systems**
+- 🔭 I’m currently working on **Create New Systems**
 
-- ?? I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Frameworks**
 
-- ?? Ask me about **Game ,Web ,Designer**
+- 💬 Ask me about **Game ,Web ,Designer**
 
-- ?? How to reach me **waleedanter@std.mans.edu.eg**
+- 📫 How to reach me **waleedanter@std.mans.edu.eg**
 
-- ? Fun fact **I am always happy**
+- ⚡ Fun fact **I am always happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
